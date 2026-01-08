@@ -1,5 +1,14 @@
 # Release Note { #tb-agg-release-note }
 
+## 3.0.0
+
+A new major release of the TB metadata and system design for integrating routine tuberculosis data into national HMIS for analysis. This version is aligned with the updates made in definitions and data entry forms as presented in the TB surveillance guidance (2024).
+
+The major update is the Notification and Outcomes datasets and dashboards, which transition from custom datasets to flat datasets. There are further critical changes in definitions and terminology. See Notifications and Outcomes system design guide for details.
+
+Other component confligurations are re-released as compatibility versions for DHIS2 v2.41.
+
+
 ## 2.0.0
 
 This is a major new release of the TB metadata and system design for integrating routine tuberculosis data into national HMIS for analysis. This version is aligned with the latest WHO strategic information guidelines for tuberculosis programmes (2023).
