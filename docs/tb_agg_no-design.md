@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This document describes the system design for TB programmes to integrate routine aggregate reporting into the HMIS. Depending on the local context, this data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools. In particular, the TB aggregate version 3.0.0 aims to outline the updates made in definitions and data entry forms as presented in the [TB surveillance guidance (2024) available at online](https://www.who.int/publications/i/item/9789240075290)
+This document describes the system design for TB programmes to integrate routine aggregate reporting into the HMIS. Depending on the local context, this data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools. In particular, the TB aggregate version 3.0.0 aims to outline the updates made in definitions and data entry forms as presented in the [TB surveillance guidance (2024) available online].(https://www.who.int/publications/i/item/9789240075290)
 
 
 ## Overview
@@ -351,3 +351,4 @@ Sections:
 Similarly to quarterly outcomes, long regimens in this dashboard will not be shown for the last two years of data, as these cohorts did not yet complete treatment.
 
 It is imperative for implementers and NTB Programs to collectively comprehend the previously utilized reporting metadata and adapt to the new reporting framework, structured around regimens and drug susceptibility. A key example to highlight the importance of this mapping is the potential to analyze outcomes of XDR cases (old framework) by incorporating the outcomes of RIF and FQ resistant cases (new framework) into the same indicators- local implementations will dictate the feasibility of this adjustment and whether this new indicator for continuity would analyze all cases or specific regimens. This adaptation is crucial for establishing connections and sustaining analytical insights. It's important to note that achieving complete alignment between the old and new frameworks might pose challenges in certain contexts, influenced by the implementation choices made during the initial rollout of the older TB aggregate DHIS2 toolkit.
+
