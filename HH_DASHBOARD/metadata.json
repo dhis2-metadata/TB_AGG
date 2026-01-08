@@ -9,7 +9,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 13,
@@ -25,8 +24,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "aOCHz4AzPXV"
@@ -38,7 +35,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -54,8 +50,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "zwW9FhD7jtn"
@@ -67,7 +61,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 4,
@@ -84,8 +77,6 @@
                     "text": "SPACER_ITEM_FOR_DASHBOARD_LAYOUT_CONVENIENCE",
                     "translations": [],
                     "type": "TEXT",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "width": 56,
                     "x": 0,
@@ -94,7 +85,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -110,8 +100,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "M0v6rZiIVcJ"
@@ -123,7 +111,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 16,
@@ -139,8 +126,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "z0I7zSffCmZ"
@@ -152,7 +137,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -168,8 +152,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "F6kCtke9Lgq"
@@ -181,7 +163,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -197,8 +178,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "shzpomJnIHm"
@@ -210,7 +189,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -226,8 +204,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "Hz0rOemZwPn"
@@ -239,7 +215,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -255,8 +230,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "py6nifJkKPF"
@@ -267,7 +240,7 @@
                 }
             ],
             "id": "YIn5CgAleTN",
-            "name": "TB05 - HH Contacts",
+            "name": "TB08 - HH Contacts",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -307,52 +280,52 @@
             "id": "hXZwX8HVTM8",
             "indicators": [
                 {
-                    "id": "cu3Jmt4ssWN"
-                },
-                {
-                    "id": "NQjV7Lw96D6"
-                },
-                {
-                    "id": "FIktfdU11d2"
-                },
-                {
-                    "id": "nGCQAmBS1FS"
-                },
-                {
-                    "id": "DPgSFO4P0G1"
-                },
-                {
-                    "id": "zckiMYozzGG"
-                },
-                {
-                    "id": "hGuPYnbkgi5"
-                },
-                {
-                    "id": "f8lltD3tQUu"
-                },
-                {
-                    "id": "G8gM2ieiAUL"
-                },
-                {
-                    "id": "bRhf49ZNckC"
-                },
-                {
-                    "id": "h8PkcXUYxJV"
+                    "id": "VG2F54Lx35r"
                 },
                 {
                     "id": "d4w3j5nmQbb"
                 },
                 {
-                    "id": "gVGb56B4e0o"
+                    "id": "nGCQAmBS1FS"
                 },
                 {
-                    "id": "VG2F54Lx35r"
+                    "id": "zckiMYozzGG"
+                },
+                {
+                    "id": "DPgSFO4P0G1"
+                },
+                {
+                    "id": "f8lltD3tQUu"
+                },
+                {
+                    "id": "NQjV7Lw96D6"
                 },
                 {
                     "id": "gFvh80a5vdF"
                 },
                 {
+                    "id": "FIktfdU11d2"
+                },
+                {
+                    "id": "h8PkcXUYxJV"
+                },
+                {
+                    "id": "cu3Jmt4ssWN"
+                },
+                {
+                    "id": "gVGb56B4e0o"
+                },
+                {
+                    "id": "bRhf49ZNckC"
+                },
+                {
+                    "id": "G8gM2ieiAUL"
+                },
+                {
                     "id": "zDCLWcEok43"
+                },
+                {
+                    "id": "hGuPYnbkgi5"
                 }
             ],
             "name": "TB - Household contacts",
@@ -578,7 +551,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contact screening coverage (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contact screening coverage (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_screen",
             "sharing": {
@@ -642,7 +615,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contact screening coverage among children aged under 5 (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contact screening coverage among children aged under 5 (%)",
             "numerator": -1,
             "numeratorDescription": "Contacts screened 0-4 years",
             "sharing": {
@@ -706,7 +679,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts completed TPT",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts completed TPT",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_cmplt",
             "sharing": {
@@ -825,7 +798,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts eligible for TPT",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts eligible for TPT",
             "numerator": -1,
             "numeratorDescription": "newinc_con_elig",
             "sharing": {
@@ -974,7 +947,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts eligible for TPT under the age of 5",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts eligible for TPT under the age of 5",
             "numerator": -1,
             "numeratorDescription": "Contacts eligible for TPT 0-4 years",
             "sharing": {
@@ -1093,7 +1066,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts identified",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts identified",
             "numerator": -1,
             "numeratorDescription": "newinc_con_ident",
             "sharing": {
@@ -1242,7 +1215,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts screened",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts screened",
             "numerator": -1,
             "numeratorDescription": "newinc_con_screen",
             "sharing": {
@@ -1391,7 +1364,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts started TPT",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts started TPT",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx",
             "sharing": {
@@ -1510,7 +1483,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts stopped TPT",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts stopped TPT",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_stop",
             "sharing": {
@@ -1629,7 +1602,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts under the age of 5 screened",
+            "name": "[CONFIG] [CONFIG] TB-HH - Contacts under the age of 5 screened",
             "numerator": -1,
             "numeratorDescription": "newinc_con_04_screen",
             "sharing": {
@@ -1748,7 +1721,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB index cases identified",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB index cases identified",
             "numerator": -1,
             "numeratorDescription": "newinc_con",
             "sharing": {
@@ -1867,7 +1840,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment completion among children aged under 5 (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB preventive treatment completion among children aged under 5 (%)",
             "numerator": -1,
             "numeratorDescription": "TPT outcomes - Completed 0-4 years",
             "sharing": {
@@ -1931,7 +1904,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment initiation (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB preventive treatment initiation (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx",
             "sharing": {
@@ -1995,7 +1968,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment initiation among children aged under 5 (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB preventive treatment initiation among children aged under 5 (%)",
             "numerator": -1,
             "numeratorDescription": "Contacts started on TPT 0-4 years",
             "sharing": {
@@ -2059,7 +2032,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment outcome - completed (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB preventive treatment outcome - completed (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_cmplt",
             "sharing": {
@@ -2123,7 +2096,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment outcome - stopped (%)",
+            "name": "[CONFIG] [CONFIG] TB-HH - TB preventive treatment outcome - stopped (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_stop",
             "sharing": {
@@ -2181,19 +2154,263 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "db15b78",
-        "DHIS2Version": "2.40.2",
+        "DHIS2Build": "1cd8262",
+        "DHIS2Version": "2.41.4",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20240104T160122",
+        "lastUpdated": "20260108T154212",
         "locale": "en",
-        "name": "TB_AGG_HH_DSH_DHIS2.40.2-en",
+        "name": "TB_AGG_HH_DSH_DHIS2.41.4-en",
         "type": "DSH",
         "version": ""
     },
     "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "TB_HH_ACCESS",
+            "id": "pyu2ZlNKbzQ",
+            "managedGroups": [],
+            "name": "TB - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Accès"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_ADMIN",
+            "id": "Ubzlyfqm1gO",
+            "managedGroups": [],
+            "name": "TB - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Admin"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_DATA_CAPTURE",
+            "id": "UKWx4jJcrKt",
+            "managedGroups": [],
+            "name": "TB - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Saisie des données"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_LAB_ACCESS",
+            "id": "s1Q2JPVhTep",
+            "managedGroups": [],
+            "name": "TB CS - Lab access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_LAB_DATA_CAPTURE",
+            "id": "zBZXkRW0PJy",
+            "managedGroups": [],
+            "name": "TB CS - Lab data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Saisie des données de labo"
+                }
+            ],
+            "users": []
+        },
         {
             "attributeValues": [],
             "code": "TB_AGG_ACCESS",
@@ -2587,53 +2804,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -2674,6 +2844,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.1_TPT cascade",
             "topLimit": 0,
@@ -2765,53 +2936,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -2852,6 +2976,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.2_Contact screening coverage",
             "topLimit": 0,
@@ -2963,53 +3088,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3050,6 +3128,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.3_TPT initiation among eligible contacts",
             "topLimit": 0,
@@ -3151,53 +3230,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3238,6 +3270,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.4_TPT completion",
             "topLimit": 0,
@@ -3370,53 +3403,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3457,6 +3443,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.1a_TPT overview",
             "topLimit": 0,
@@ -3535,53 +3522,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3622,6 +3562,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.4_TPT stopped",
             "topLimit": 0,
@@ -3711,53 +3652,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3808,6 +3702,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.3a_TPT eligibility vs initiation",
             "topLimit": 0,
@@ -3892,53 +3787,6 @@
             "periods": [],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -3989,6 +3837,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "TBc_7.3b_TPT eligibility vs initiation among children under 5 years of age",
             "topLimit": 0,
