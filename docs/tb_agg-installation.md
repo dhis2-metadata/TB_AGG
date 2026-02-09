@@ -10,12 +10,12 @@ The package includes metadata json files containing the following components:
 
 1. TB HMIS - Complete package
 2. TB HMIS - Dashboard package
-3. TB Laboratory
-4. TB Laboratory (dashboard)
-5. TB Household Contacts
-6. TB Household Contacts (dashboard)
-7. TB Stock
-8. TB Stock (dashboard)
+3. TB Notifications and Outcomes
+3. TB Notifications and Outcomes (dashboard)
+5. TB Laboratory
+6. TB Laboratory (dashboard)
+7. TB Household Contacts
+8. TB Household Contacts (dashboard)
 9. TB Data Quality (dashboard)
 
 ## Installation
