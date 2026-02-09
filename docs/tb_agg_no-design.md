@@ -59,7 +59,9 @@ This document describes the system design for TB programmes to integrate routine
 
 ## Datasets Structure and Design
 
-**> **💡 NOTE:**** Upon the implementation and use of the updated framework of metadata present in version 2.0.0 implementers should pay particular attention to data and content consistency, as the indicators belonging to the previous metadata version might not align perfectly with the current standards or definitions; and interpretation challenges, as guidelines and methodologies evolve where older indicators might not accurately reflect the current context or priorities, creating grounds for potential misinterpretation of data and long-term limitation of content relevance.
+> **Note**
+>
+> Upon the implementation and use of the updated framework of metadata present in version 2.0.0 implementers should pay particular attention to data and content consistency, as the indicators belonging to the previous metadata version might not align perfectly with the current standards or definitions; and interpretation challenges, as guidelines and methodologies evolve where older indicators might not accurately reflect the current context or priorities, creating grounds for potential misinterpretation of data and long-term limitation of content relevance.
 
 The **major update** in DHIS2 **version 3.0.0** is the transition from **custom datasets** to **flat datasets**. This change was implemented based on valuable feedback from country-level implementations and careful consideration of long-term maintenance requirements.
 
@@ -109,11 +111,15 @@ The **disaggregation of new TB episodes** (previously classified as "new" and "r
 The **age disaggregation** remains unchanged from version **2.0.0**, following these categories: \
 **0-4 years, 5-9 years, 10-14 years, 15-19 years, 20-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65+ years, and Unknown Age**. Compared to the older versions, in this and version 2.0.0, child, adolescent, and young adult age groups are further disaggregated into the 5-9, 10-14, 15-19, and 20-24 age groups in line with the general surveillance guidance, and recognizing the differences in risk factors among the adolescent and young adult age groups.
 
-> 💡 **Tip:** The sum of the table should reflect the sum of the new episodes reported in the previous section.
+> **Tip:**
+>
+> 💡 The sum of the table should reflect the sum of the new episodes reported in the previous section.
 
 **The sex disaggregation** has been shifted to the **row layout**, taking advantage of a new system feature that enhances data organization and visualization. This layout aligns with **WHO reporting guidance**, though implementers also have the option to **move Age disaggregation to the rows**, depending on programmatic preferences or reporting needs. 
 
-> 💡 **Tip:** These configurations can be adjusted in the **Maintenance App** by navigating to: \
+> **Tip:**
+>
+> 💡 These configurations can be adjusted in the **Maintenance App** by navigating to: \
  **Dataset > Manage > [Select Dataset Section] > Pivot Options**.
 
 ![Sex disaggregations to rows](resources/images/TBv3_005.png)
@@ -132,16 +138,14 @@ The section is only present in the quarterly dataset. The data points can be agg
 
 Rifampicin (RIF) susceptibility testing is not disaggregated in the quarterly dataset. 
 
-**> ⚠️ **Important Note:** Other testing and laboratory-related information** has been **permanently moved** to the **TB - Laboratory dataset**. For instance, the **“Laboratory Diagnostic Activities”** section, which was included in **Version 1.5.0**, is no longer present in the current dataset. The DEs and corresponding indicators are currently present in the “TB - Laboratory” dataset. Implementers should carefully assess local workflows and capacities to determine whether laboratory reporting and notifications reporting should remain separate or be merged into a single dataset, ensuring alignment with national reporting structures and operational efficiency.
+> **Important**
+>
+> Other testing and laboratory-related information** has been **permanently moved** to the **TB - Laboratory dataset**. For instance, the **“Laboratory Diagnostic Activities”** section, which was included in **Version 1.5.0**, is no longer present in the current dataset. The DEs and corresponding indicators are currently present in the “TB - Laboratory” dataset. Implementers should carefully assess local workflows and capacities to determine whether laboratory reporting and notifications reporting should remain separate or be merged into a single dataset, ensuring alignment with national reporting structures and operational efficiency.
 
 | Metadata                                                                      | Type         | UID         |
-
-|-------------------------------------------------------------------------------|--------------|-------------|
-
+|:------------------------------------------------------------------------------|:-------------|:------------|
 | TB-LAB - Presumptive cases tested by any WRD                                  | Data element | N7LIAia2AWf |
-
 | TB-LAB - Presumptive cases tested positive by any WRD                         | Data element | TiwOMtQvbLY |
-
 | TB-LAB - Presumptive TB cases tested using a WHO-recommended rapid diagnostic | Indicator    | As2eOxgQM9H |
 
 These are recommended for reporting and use in countries with case-based digital surveillance systems as well as additional indicators that are options to be considered in countries with case-based digital surveillance systems as listed in Table 4.7 and Table 4.9 of Chapter 4 of the guidelines. These data items, including also the DEs present in the “Bedaquiline and linezolid susceptibility testing among people with PBC RR-TB” section of the yearly notification dataset, could be collected through periodic surveys based on a random sample of patient records, instead of routine continuous surveillance.
@@ -167,7 +171,9 @@ Unlike the quarterly dataset that reported just the total aggregate number, the 
 
 ![RIF susceptibility - yearly dataset](resources/images/TBv3_010.png)
 
-**> ⚠️ **Important Note:** **The section on new episodes by age and sex, and the one on HIV testing, are only reported within the quarterly framework. The outputs can be aggregated for yearly reporting within the system.
+> **Important**
+>
+> The section on new episodes by age and sex, and the one on HIV testing, are only reported within the quarterly framework. The outputs can be aggregated for yearly reporting within the system.
 
 
 ###### INH testing
@@ -238,7 +244,7 @@ Lastly, the dataset reports pulmonary RIF susceptible TB cases by method of diag
 
 ![PBC and PCD cases on short treatment](resources/images/TBv3_019.png)
 
-> 💡 **Tip:** The totals for the cohorts and outcomes should match the totals of the cohort and outcomes of the RIF susceptible cases reported regardless of their HIV status. 
+>**Tip:** The totals for the cohorts and outcomes should match the totals of the cohort and outcomes of the RIF susceptible cases reported regardless of their HIV status. 
 
 
 ## Validation Rules
@@ -351,5 +357,6 @@ Sections:
 Similarly to quarterly outcomes, long regimens in this dashboard will not be shown for the last two years of data, as these cohorts did not yet complete treatment.
 
 It is imperative for implementers and NTB Programs to collectively comprehend the previously utilized reporting metadata and adapt to the new reporting framework, structured around regimens and drug susceptibility. A key example to highlight the importance of this mapping is the potential to analyze outcomes of XDR cases (old framework) by incorporating the outcomes of RIF and FQ resistant cases (new framework) into the same indicators- local implementations will dictate the feasibility of this adjustment and whether this new indicator for continuity would analyze all cases or specific regimens. This adaptation is crucial for establishing connections and sustaining analytical insights. It's important to note that achieving complete alignment between the old and new frameworks might pose challenges in certain contexts, influenced by the implementation choices made during the initial rollout of the older TB aggregate DHIS2 toolkit.
+
 
 
