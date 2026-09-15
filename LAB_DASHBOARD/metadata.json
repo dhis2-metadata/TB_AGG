@@ -2693,19 +2693,10 @@
                     "id": "z3dG3IqPLJh"
                 },
                 {
-                    "id": "f9XAFdqtOKU"
-                },
-                {
                     "id": "GiRwSYCuwq8"
                 },
                 {
-                    "id": "NdL0xmm4rmY"
-                },
-                {
                     "id": "mfK5oIk2oFq"
-                },
-                {
-                    "id": "yqBKW3U1pUt"
                 },
                 {
                     "id": "ycdMYu5PdTu"
@@ -2720,13 +2711,7 @@
                     "id": "ByuTyZ4nN9e"
                 },
                 {
-                    "id": "qUo0WYxG56T"
-                },
-                {
                     "id": "lPgUz0EsAMJ"
-                },
-                {
-                    "id": "ZnTE64yZ6L0"
                 },
                 {
                     "id": "Bs7aunLuXHJ"
@@ -2735,19 +2720,10 @@
                     "id": "EKudfsZCmHL"
                 },
                 {
-                    "id": "Pxn7lV8ADKo"
-                },
-                {
                     "id": "rWDfMcX55cH"
                 },
                 {
                     "id": "HKdwT711nKH"
-                },
-                {
-                    "id": "GUrr4w9uV2E"
-                },
-                {
-                    "id": "z0xLTyl294U"
                 },
                 {
                     "id": "eODwrejiDmD"
@@ -2759,9 +2735,6 @@
                     "id": "ZFfoHkuZ1ff"
                 },
                 {
-                    "id": "HCS7wcaCg0x"
-                },
-                {
                     "id": "IqhelwrkQfE"
                 },
                 {
@@ -2771,25 +2744,10 @@
                     "id": "xLsnhUGoaaU"
                 },
                 {
-                    "id": "SlhRDBx1dqN"
-                },
-                {
-                    "id": "Pi9lRK14zkH"
-                },
-                {
-                    "id": "s6jUG4c6A7C"
-                },
-                {
-                    "id": "Eo8uQqnwMNH"
-                },
-                {
                     "id": "iEgdR3feRUN"
                 },
                 {
                     "id": "erzKhX4t2fp"
-                },
-                {
-                    "id": "uvXdjbkkrLi"
                 },
                 {
                     "id": "IqbGPfL6hYH"
@@ -2801,25 +2759,13 @@
                     "id": "uP6fRmOzFt7"
                 },
                 {
-                    "id": "ljDQhAgtCPQ"
-                },
-                {
                     "id": "I2xVQlpPVsH"
-                },
-                {
-                    "id": "jmL9gwVOYMT"
                 },
                 {
                     "id": "kOVRgKTcOOC"
                 },
                 {
-                    "id": "Uz5V23TA2IW"
-                },
-                {
                     "id": "rnRvOY2hSQr"
-                },
-                {
-                    "id": "Vza0JfpIAqJ"
                 },
                 {
                     "id": "x90NpeKVF0R"
@@ -2828,25 +2774,13 @@
                     "id": "v4IzuZRDVft"
                 },
                 {
-                    "id": "sj5qUqzZh27"
-                },
-                {
                     "id": "bROBkQmV84c"
                 },
                 {
                     "id": "h3ijwlnjjVf"
                 },
                 {
-                    "id": "mPWHy3MUILa"
-                },
-                {
                     "id": "EvU2RELvcWw"
-                },
-                {
-                    "id": "QAVMUCfbJTq"
-                },
-                {
-                    "id": "VBIIYfFBoif"
                 },
                 {
                     "id": "M0ZYBKDE5MG"
@@ -2873,9 +2807,6 @@
                     "id": "HiDrWnGqm2h"
                 },
                 {
-                    "id": "gMcDavA0flT"
-                },
-                {
                     "id": "D2VUzvYmBkD"
                 },
                 {
@@ -2886,6 +2817,81 @@
                 },
                 {
                     "id": "Y5yS9oMUDkJ"
+                },
+                {
+                    "id": "p8tl4ORL6xr"
+                },
+                {
+                    "id": "fMa60zetD0L"
+                },
+                {
+                    "id": "f9XAFdqtOKU"
+                },
+                {
+                    "id": "NdL0xmm4rmY"
+                },
+                {
+                    "id": "yqBKW3U1pUt"
+                },
+                {
+                    "id": "qUo0WYxG56T"
+                },
+                {
+                    "id": "ZnTE64yZ6L0"
+                },
+                {
+                    "id": "Pxn7lV8ADKo"
+                },
+                {
+                    "id": "GUrr4w9uV2E"
+                },
+                {
+                    "id": "z0xLTyl294U"
+                },
+                {
+                    "id": "HCS7wcaCg0x"
+                },
+                {
+                    "id": "SlhRDBx1dqN"
+                },
+                {
+                    "id": "Pi9lRK14zkH"
+                },
+                {
+                    "id": "s6jUG4c6A7C"
+                },
+                {
+                    "id": "Eo8uQqnwMNH"
+                },
+                {
+                    "id": "uvXdjbkkrLi"
+                },
+                {
+                    "id": "ljDQhAgtCPQ"
+                },
+                {
+                    "id": "jmL9gwVOYMT"
+                },
+                {
+                    "id": "Uz5V23TA2IW"
+                },
+                {
+                    "id": "Vza0JfpIAqJ"
+                },
+                {
+                    "id": "sj5qUqzZh27"
+                },
+                {
+                    "id": "mPWHy3MUILa"
+                },
+                {
+                    "id": "QAVMUCfbJTq"
+                },
+                {
+                    "id": "VBIIYfFBoif"
+                },
+                {
+                    "id": "gMcDavA0flT"
                 },
                 {
                     "id": "XvNaN0YfjXd"
@@ -2904,12 +2910,6 @@
                 },
                 {
                     "id": "Aeq3MqkGJpm"
-                },
-                {
-                    "id": "p8tl4ORL6xr"
-                },
-                {
-                    "id": "fMa60zetD0L"
                 }
             ],
             "name": "TB - Laboratory",
@@ -8433,15 +8433,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "1cd8262",
-        "DHIS2Version": "2.41.4",
+        "DHIS2Build": "d21905b",
+        "DHIS2Version": "2.41.6.1",
         "code": "TB_AGG_LAB",
         "description": "TB Lab (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
         "lastUpdated": "20260108T154228",
         "locale": "en",
-        "name": "TB_AGG_LAB_DSH_DHIS2.41.4-en",
+        "name": "TB_AGG_LAB_DSH_DHIS2.41.6.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -9072,6 +9072,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9221,6 +9225,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9370,6 +9378,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9528,6 +9540,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9674,6 +9690,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9815,6 +9835,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -9968,6 +9992,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_MONTH",
+                "LAST_6_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10134,6 +10162,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10304,6 +10336,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10444,6 +10480,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10585,6 +10625,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10732,6 +10776,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -10890,6 +10938,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11024,6 +11076,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11164,6 +11220,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11311,6 +11371,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11469,6 +11533,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11603,6 +11671,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11737,6 +11809,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -11872,6 +11948,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12028,6 +12108,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12162,6 +12246,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12362,6 +12450,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12542,6 +12634,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12743,6 +12839,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -12879,6 +12979,10 @@
             "organisationUnits": [],
             "percentStackedValues": true,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
