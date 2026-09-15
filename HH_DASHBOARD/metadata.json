@@ -298,25 +298,25 @@
                     "id": "f8lltD3tQUu"
                 },
                 {
-                    "id": "NQjV7Lw96D6"
+                    "id": "FIktfdU11d2"
                 },
                 {
                     "id": "gFvh80a5vdF"
                 },
                 {
-                    "id": "FIktfdU11d2"
+                    "id": "NQjV7Lw96D6"
                 },
                 {
                     "id": "h8PkcXUYxJV"
+                },
+                {
+                    "id": "bRhf49ZNckC"
                 },
                 {
                     "id": "cu3Jmt4ssWN"
                 },
                 {
                     "id": "gVGb56B4e0o"
-                },
-                {
-                    "id": "bRhf49ZNckC"
                 },
                 {
                     "id": "G8gM2ieiAUL"
@@ -2154,15 +2154,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "1cd8262",
-        "DHIS2Version": "2.41.4",
+        "DHIS2Build": "d21905b",
+        "DHIS2Version": "2.41.6.1",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
         "lastUpdated": "20260108T154212",
         "locale": "en",
-        "name": "TB_AGG_HH_DSH_DHIS2.41.4-en",
+        "name": "TB_AGG_HH_DSH_DHIS2.41.6.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -2802,6 +2802,9 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -2934,6 +2937,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3086,6 +3093,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3228,6 +3239,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3401,6 +3416,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3520,6 +3539,9 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3650,6 +3672,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
@@ -3785,6 +3811,10 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "THIS_QUARTER",
+                "LAST_4_QUARTERS"
+            ],
             "regression": false,
             "regressionType": "NONE",
             "reportingParams": {
